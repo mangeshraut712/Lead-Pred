@@ -1,0 +1,203 @@
+Total features after engineering and encoding: 201
+Features:
+- Lead Number
+- TotalVisits
+- Total Time Spent on Website
+- Page Views Per Visit
+- Asymmetrique Activity Score
+- Asymmetrique Profile Score
+- Avg_Time_Per_Visit
+- Is_Email_Activity
+- Is_SMS_Activity
+- Lead Origin_Landing Page Submission
+- Lead Origin_Lead Add Form
+- Lead Origin_Lead Import
+- Lead Origin_Quick Add Form
+- Lead Source_Direct Traffic
+- Lead Source_Facebook
+- Lead Source_Google
+- Lead Source_Live Chat
+- Lead Source_NC_EDM
+- Lead Source_Olark Chat
+- Lead Source_Organic Search
+- Lead Source_Pay per Click Ads
+- Lead Source_Press_Release
+- Lead Source_Reference
+- Lead Source_Referral Sites
+- Lead Source_Social Media
+- Lead Source_Unknown
+- Lead Source_WeLearn
+- Lead Source_Welingak Website
+- Lead Source_bing
+- Lead Source_blog
+- Lead Source_google
+- Lead Source_testone
+- Lead Source_welearnblog_Home
+- Lead Source_youtubechannel
+- Do Not Email_Yes
+- Do Not Call_Yes
+- Last Activity_Converted to Lead
+- Last Activity_Email Bounced
+- Last Activity_Email Link Clicked
+- Last Activity_Email Marked Spam
+- Last Activity_Email Opened
+- Last Activity_Email Received
+- Last Activity_Form Submitted on Website
+- Last Activity_Had a Phone Conversation
+- Last Activity_Olark Chat Conversation
+- Last Activity_Page Visited on Website
+- Last Activity_Resubscribed to emails
+- Last Activity_SMS Sent
+- Last Activity_Unknown
+- Last Activity_Unreachable
+- Last Activity_Unsubscribed
+- Last Activity_View in browser link Clicked
+- Last Activity_Visited Booth in Tradeshow
+- Country_Australia
+- Country_Bahrain
+- Country_Bangladesh
+- Country_Belgium
+- Country_Canada
+- Country_China
+- Country_Denmark
+- Country_France
+- Country_Germany
+- Country_Ghana
+- Country_Hong Kong
+- Country_India
+- Country_Indonesia
+- Country_Italy
+- Country_Kenya
+- Country_Kuwait
+- Country_Liberia
+- Country_Malaysia
+- Country_Netherlands
+- Country_Nigeria
+- Country_Oman
+- Country_Philippines
+- Country_Qatar
+- Country_Russia
+- Country_Saudi Arabia
+- Country_Singapore
+- Country_South Africa
+- Country_Sri Lanka
+- Country_Sweden
+- Country_Switzerland
+- Country_Tanzania
+- Country_Uganda
+- Country_United Arab Emirates
+- Country_United Kingdom
+- Country_United States
+- Country_Unknown
+- Country_Vietnam
+- Country_unknown
+- Specialization_Business Administration
+- Specialization_E-Business
+- Specialization_E-COMMERCE
+- Specialization_Finance Management
+- Specialization_Healthcare Management
+- Specialization_Hospitality Management
+- Specialization_Human Resource Management
+- Specialization_IT Projects Management
+- Specialization_International Business
+- Specialization_Marketing Management
+- Specialization_Media and Advertising
+- Specialization_Operations Management
+- Specialization_Retail Management
+- Specialization_Rural and Agribusiness
+- Specialization_Select
+- Specialization_Services Excellence
+- Specialization_Supply Chain Management
+- Specialization_Travel and Tourism
+- Specialization_Unknown
+- How did you hear about X Education_Email
+- How did you hear about X Education_Multiple Sources
+- How did you hear about X Education_Online Search
+- How did you hear about X Education_Other
+- How did you hear about X Education_SMS
+- How did you hear about X Education_Select
+- How did you hear about X Education_Social Media
+- How did you hear about X Education_Student of SomeSchool
+- How did you hear about X Education_Unknown
+- How did you hear about X Education_Word Of Mouth
+- What is your current occupation_Housewife
+- What is your current occupation_Other
+- What is your current occupation_Student
+- What is your current occupation_Unemployed
+- What is your current occupation_Unknown
+- What is your current occupation_Working Professional
+- What matters most to you in choosing a course_Flexibility & Convenience
+- What matters most to you in choosing a course_Other
+- What matters most to you in choosing a course_Unknown
+- Search_Yes
+- Newspaper Article_Yes
+- X Education Forums_Yes
+- Newspaper_Yes
+- Digital Advertisement_Yes
+- Through Recommendations_Yes
+- Tags_Busy
+- Tags_Closed by Horizzon
+- Tags_Diploma holder (Not Eligible)
+- Tags_Graduation in progress
+- Tags_In confusion whether part time or DLP
+- Tags_Interested  in full time MBA
+- Tags_Interested in Next batch
+- Tags_Interested in other courses
+- Tags_Lateral student
+- Tags_Lost to EINS
+- Tags_Lost to Others
+- Tags_Not doing further education
+- Tags_Recognition issue (DEC approval)
+- Tags_Ringing
+- Tags_Shall take in the next coming month
+- Tags_Still Thinking
+- Tags_University not recognized
+- Tags_Unknown
+- Tags_Want to take admission but has financial problems
+- Tags_Will revert after reading the email
+- Tags_in touch with EINS
+- Tags_invalid number
+- Tags_number not provided
+- Tags_opp hangup
+- Tags_switched off
+- Tags_wrong number given
+- Lead Quality_Low in Relevance
+- Lead Quality_Might be
+- Lead Quality_Not Sure
+- Lead Quality_Unknown
+- Lead Quality_Worst
+- Lead Profile_Lateral Student
+- Lead Profile_Other Leads
+- Lead Profile_Potential Lead
+- Lead Profile_Select
+- Lead Profile_Student of SomeSchool
+- Lead Profile_Unknown
+- City_Other Cities
+- City_Other Cities of Maharashtra
+- City_Other Metro Cities
+- City_Select
+- City_Thane & Outskirts
+- City_Tier II Cities
+- City_Unknown
+- Asymmetrique Activity Index_02.Medium
+- Asymmetrique Activity Index_03.Low
+- Asymmetrique Activity Index_Unknown
+- Asymmetrique Profile Index_02.Medium
+- Asymmetrique Profile Index_03.Low
+- Asymmetrique Profile Index_Unknown
+- A free copy of Mastering The Interview_Yes
+- Last Notable Activity_Email Bounced
+- Last Notable Activity_Email Link Clicked
+- Last Notable Activity_Email Marked Spam
+- Last Notable Activity_Email Opened
+- Last Notable Activity_Email Received
+- Last Notable Activity_Form Submitted on Website
+- Last Notable Activity_Had a Phone Conversation
+- Last Notable Activity_Modified
+- Last Notable Activity_Olark Chat Conversation
+- Last Notable Activity_Page Visited on Website
+- Last Notable Activity_Resubscribed to emails
+- Last Notable Activity_SMS Sent
+- Last Notable Activity_Unreachable
+- Last Notable Activity_Unsubscribed
+- Last Notable Activity_View in browser link Clicked

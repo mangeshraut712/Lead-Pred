@@ -1,0 +1,18 @@
+Best Parameters: {'classifier__C': 1, 'classifier__class_weight': 'balanced', 'classifier__penalty': 'l1', 'classifier__solver': 'saga'}
+Best Cross-Validation ROC AUC Score: 0.9815
+
+--- Test Set Performance ---
+AUC Score: 0.9801
+Confusion Matrix:
+[[1615   89]
+ [  81  987]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.95      0.95      1704
+           1       0.92      0.92      0.92      1068
+
+    accuracy                           0.94      2772
+   macro avg       0.93      0.94      0.94      2772
+weighted avg       0.94      0.94      0.94      2772
+
