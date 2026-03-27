@@ -126,3 +126,20 @@ Data Leakage Prevention: Imputation and scaling parameters are learned only from
 Simplified Prediction: The predict_conversion.py script is simplified, only requiring loading the full pipeline and applying it to new data after initial feature engineering.
 
 This updated system provides a more reliable and maintainable approach to lead conversion prediction.
+
+---
+
+<!-- codex:project-diagram:start -->
+
+## Project Diagram
+
+```mermaid
+flowchart LR
+    A["Raw Data"] --> B["Preprocessing"]
+    B --> C["Model Training"]
+    C --> D["Predictions / Reports"]
+```
+
+_Core machine-learning workflow from source data to final artifacts._
+
+<!-- codex:project-diagram:end -->
